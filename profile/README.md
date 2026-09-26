@@ -6,7 +6,7 @@
 
 **Senior engineering, no agency overhead.**
 
-Vad Systems is a one-person consultancy run by Neel Shah — a computer scientist and Solutions Architect who brings enterprise-grade technical depth directly to your project. You work with the engineer, not through one.
+Vad Systems is a one-person consultancy run by Neel Shah - a computer scientist and Solutions Architect who brings enterprise-grade technical depth directly to your project. You work with the engineer, not through one.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neelspd-0c206d?style=flat&logo=linkedin)](https://www.linkedin.com/in/neelspd)
 [![Email](https://img.shields.io/badge/Email-vad.systems%40outlook.com-00a4a4?style=flat&logo=microsoft-outlook)](mailto:vad.systems@outlook.com)
