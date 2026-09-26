@@ -20,17 +20,17 @@ Vad Systems is a one-person consultancy run by Neel Shah - a computer scientist 
 
 Vad Systems is a freelance software engineering and technology consultancy based in Vadodara, Gujarat. Founded by Neel Shah, it operates on a single premise: clients deserve direct access to the person doing the work.
 
-### Neel Shah — Founder & Principal Engineer
+### Neel Shah - Founder & Principal Engineer
 
 | | |
 |---|---|
-| 🎓 | M.Sc. Computer Science — University of Bamberg, Germany |
+| 🎓 | M.Sc. Computer Science - University of Bamberg, Germany |
 | 🏢 | Previously at Digital India Corporation |
 | ⏱️ | 6+ years of industry experience |
 | 📍 | Vadodara, Gujarat · Remote-first · Global |
 | 🌳 | 3rd generation business family |
 
-Research interests span **Distributed Systems**, **Cloud Systems**, and **Internet of Things** — with peer-reviewed publications in conferences and journals. Industry hands-on experience in Robotics and IoT.
+Research interests span **Distributed Systems**, **Cloud Systems**, and **Internet of Things** - with peer-reviewed publications in conferences and journals. Industry hands-on experience in Robotics and IoT.
 
 ---
 
@@ -45,7 +45,7 @@ Research interests span **Distributed Systems**, **Cloud Systems**, and **Intern
 | 💰 **FinOps Consulting** | Cloud spend visibility, unit economics analysis, and cost governance frameworks. |
 | 🗄️ **Data Management & Engineering** | Pipeline architecture, data warehousing, ETL/ELT design, and analytics infrastructure. |
 | 📡 **IoT & Edge Systems** | Architecture and implementation of connected device systems, sensor networks, cloud-to-device integration, and edge computing solutions. From prototype to production. |
-| 🎓 **Training & Capacity Building** | Hands-on technical training for university students and corporate teams — covering Cloud & DevOps, Data Engineering, Software Development, and FinOps. Delivered on-site, online, or as a structured curriculum. |
+| 🎓 **Training & Capacity Building** | Hands-on technical training for university students and corporate teams - covering Cloud & DevOps, Data Engineering, Software Development, and FinOps. Delivered on-site, online, or as a structured curriculum. |
 
 ---
 
@@ -57,16 +57,16 @@ Research interests span **Distributed Systems**, **Cloud Systems**, and **Intern
 If your idea needs a different approach than what you asked for, I'll say so. If I'm not the right fit, I'll tell you that too.
 
 **02 · Technology that fits your context**
-I recommend based on your budget, team, and growth trajectory — not whatever's trendy or easiest for me to build.
+I recommend based on your budget, team, and growth trajectory - not whatever's trendy or easiest for me to build.
 
 **03 · You own everything**
 All code, all infrastructure, all credentials. I document thoroughly and hand over completely. No lock-in, ever.
 
 **04 · Outcomes, not hours**
-I don't bill by the hour. I take time to understand your project scope, your success metrics, and deliverables — then quote a fixed price and a soft timeline. You know exactly what you're buying before we start.
+I don't bill by the hour. I take time to understand your project scope, your success metrics, and deliverables - then quote a fixed price and a soft timeline. You know exactly what you're buying before we start.
 
 **05 · Structured revisions, not open-ended drift**
-Every project includes a defined number of revision rounds depending on scope and complexity. Constraints make decisions sharper. If needs evolve beyond that, we re-scope or move to hourly — discussed openly, never sprung on you.
+Every project includes a defined number of revision rounds depending on scope and complexity. Constraints make decisions sharper. If needs evolve beyond that, we re-scope or move to hourly - discussed openly, never sprung on you.
 
 ### Engagement Process
 
@@ -79,8 +79,8 @@ Discover  →  Scope & Quote  →  Build  →  Refine  →  Handover
 | **Discover** | We talk through your goals, success metrics, constraints, and technical landscape. Free, no commitment. |
 | **Scope & Quote** | A fixed-price proposal with defined deliverables, success criteria, and a soft timeline. No hourly guesswork. |
 | **Build** | Regular check-ins, shared progress access, and direct communication throughout. You're never in the dark. |
-| **Refine** | Structured revision rounds — agreed upfront. Clear limits make feedback sharper and decisions faster. |
-| **Handover** | Tested, documented, and fully transferred. If the scope evolves further, we re-scope or move to hourly — your call. |
+| **Refine** | Structured revision rounds - agreed upfront. Clear limits make feedback sharper and decisions faster. |
+| **Handover** | Tested, documented, and fully transferred. If the scope evolves further, we re-scope or move to hourly - your call. |
 
 ---
 
@@ -99,7 +99,7 @@ Discover  →  Scope & Quote  →  Build  →  Refine  →  Handover
 
 ## Get in Touch
 
-If you have a project in mind, reach out directly. Include a short description of what you're building, what success looks like, and a rough timeline and budget — that's all I need to give you a useful first response.
+If you have a project in mind, reach out directly. Include a short description of what you're building, what success looks like, and a rough timeline and budget - that's all I need to give you a useful first response.
 
 | | |
 |---|---|
@@ -111,7 +111,7 @@ If you have a project in mind, reach out directly. Include a short description o
 
 <div align="center">
 
-*"I come from a family of business people — three generations deep. I understand what it means to build something real, to make decisions under uncertainty, and to care about outcomes beyond the invoice."*
+*"I come from a family of business people - three generations deep. I understand what it means to build something real, to make decisions under uncertainty, and to care about outcomes beyond the invoice."*
 
 <!-- **© 2026 Vad Systems · Vadodara, India**
 
